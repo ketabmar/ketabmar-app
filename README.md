@@ -6,6 +6,7 @@
 </p>
 
 -------------------
+<center><img src="https://img.shields.io/github/downloads/ketabmar/ketabmar-app/v1.0.0/com.ketabmar.ketabmar-v1.0.0.-release.apk.svg?label=Android%20Downloads"/></center>
 # Installing
 To install KETABMaR, please read installation instructions in the sub-sections for your respective operating system.
 ## Android
